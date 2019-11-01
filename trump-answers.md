@@ -27,11 +27,11 @@ The president's statements have been separated into individual answers, to bette
 
 **b.i.** Did Mr. Trump, Jr. or anyone else tell you about or show you any of these communications? If yes, describe who discussed the communications with you, when, and the substance of the discussion(s).
 
-(same answer) **I have no recollection of learning at the time that Donald Trump, Jr., Paul Manafort, or Jared Kushner was considering participating in a meeting in June 2016 concerning potentially negative information about Hillary Clinton.**
+(same answer) **I have no recollection of learning at the time that Donald Trump, Jr., Paul Manafort, or Jared Kushner was considering participating in a meeting in June 2016 concerning potentially negative information about Hillary Clinton. Nor do I recall learning during the campaign ... that the referenced emails existed, ...**
 
 **b.ii.** When did you first see or learn about all or any part of the emails reflected in Exhibit A?
 
-*(Unanswered)*
+*(Unanswered, but likely meant to be answered by **Nor do I recall learning during the campaign ... that the referenced emails existed, ...**)*
 
 **b.iii.** When did you first learn that the proposed meeting involved or was described as being part of Russia and its government’s support for your candidacy?
 
@@ -39,7 +39,7 @@ The president's statements have been separated into individual answers, to bette
 
 **b.iv.** Did you suggest to or direct anyone not to discuss or release publicly all or any portion of the emails reflected in Exhibit A? If yes, describe who you communicated with, when, the substance of the communication(s), and why you took that action.
 
-*(Technically unanswered, but likely meant to be answered by **Nor do I recall learning during the campaign ... that the referenced emails existed, ...**)*
+*(Unanswered, but likely meant to be answered by **Nor do I recall learning during the campaign ... that the referenced emails existed, ...**)*
 
 *c. On June 9, 2016, Donald Trump, Jr., Paul Manafort, and Jared Kushner attended a meeting at Trump Tower with several individuals, including a Russian lawyer, Natalia Veselnitskaya (the “June 9 meeting”).*
 
@@ -199,8 +199,7 @@ The president's statements have been separated into individual answers, to bette
 
 ### III. The Trump Organization Moscow Project
 
- *a. In October 2015, a “Letter of Intent,” a copy of which is attached as Exhibit B, was signed for a proposed Trump Organization project in Moscow (the “Trump Moscow project”).*
-
+*a. In October 2015, a “Letter of Intent,” a copy of which is attached as Exhibit B, was signed for a proposed Trump Organization project in Moscow (the “Trump Moscow project”).*
 
 **a.i.** When were you first informed of discussions about the Trump Moscow project? By whom? What were you told about the project?
 
