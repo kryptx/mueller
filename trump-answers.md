@@ -109,7 +109,7 @@ The president's statements have been separated into individual answers, to bette
 
 **The Pulse Nightclub terrorist attack took place in the early morning hours of Sunday, June 12, 2016. In light of that tragedy, I gave a speech directed more specifically to national security and terrorism than to the Clintons. That speech was delivered at the Saint Anselm College Institute of Politics in Manchester, New Hampshire, and, as reported, opened with the following:**
 
-***"This was going to be a speech on Hillary Clinton and how bad a President, especially in these times of Radical Islamic Terrorism, she would be. Even her former Secret Service Agent, who has seen her under pressure and in times of stress, has stated that she lacks the temperament and integrity to be president. There will be plenty of opportunity to discuss these important issues at a later time, and I will deliver that speech soon. But today there is only one thing to discuss: the growing threat of terrorism inside ofour borders."***
+***"This was going to be a speech on Hillary Clinton and how bad a President, especially in these times of Radical Islamic Terrorism, she would be. Even her former Secret Service Agent, who has seen her under pressure and in times of stress, has stated that she lacks the temperament and integrity to be president. There will be plenty of opportunity to discuss these important issues at a later time, and I will deliver that speech soon. But today there is only one thing to discuss: the growing threat of terrorism inside of our borders."***
 
 **h.** Did any person or entity inform you during the campaign that Vladimir Putin or the Russian government supported your candidacy or opposed the candidacy of Hillary Clinton? If yes, describe the source(s) of the information, when you were informed, and the content of such discussion(s).
 
@@ -155,17 +155,17 @@ The president's statements have been separated into individual answers, to bette
 
 **I do not recall being told during the campaign of any efforts by Russia to infiltrate or hack the computer systems or email accounts of Hillary Clinton or her campaign prior to them becoming the subject of media reporting and I have no recollection of any particular conversation in that regard.**
 
- *e. On October 7, 2016, emails hacked from the account of John Podesta were released by WikiLeaks.*
+*e. On October 7, 2016, emails hacked from the account of John Podesta were released by WikiLeaks.*
 
-**i.** Where were you on October 7, 2016?
+**e.i.** Where were you on October 7, 2016?
 
 **I was in Trump Tower in New York City on October 7, 2016.**
 
-**ii.** Were you told at any time in advance of, or on the day of, the October 7 release that WikiLeaks possessed or might possess emails related to John Podesta? If yes, describe who told you this, when, and what you were told.
+**e.ii.** Were you told at any time in advance of, or on the day of, the October 7 release that WikiLeaks possessed or might possess emails related to John Podesta? If yes, describe who told you this, when, and what you were told.
 
-**I have no recollection ofbeing told that WikiLeaks possessed or might possess emails related to John Podesta before the release of Mr. Podesta's emails was reported by the media.**
+**I have no recollection of being told that WikiLeaks possessed or might possess emails related to John Podesta before the release of Mr. Podesta's emails was reported by the media.**
 
-**iii.** Are you aware of anyone associated with you or your campaign, including Roger Stone, reaching out to WikiLeaks, either directly or through an intermediary, on or about October 7, 2016? If yes, identify the person and describe the substance of the conversations or contacts.
+**e.iii.** Are you aware of anyone associated with you or your campaign, including Roger Stone, reaching out to WikiLeaks, either directly or through an intermediary, on or about October 7, 2016? If yes, identify the person and describe the substance of the conversations or contacts.
 
 **Likewise, I have no recollection of being told that Roger Stone, anyone acting as an intermediary for Roger Stone, or anyone associated with my campaign had communicated with WikiLeaks on October 7, 2016.**
 
