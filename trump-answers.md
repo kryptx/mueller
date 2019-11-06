@@ -27,11 +27,9 @@ The president's statements have been separated into individual answers, for a mo
 
 *b. Attached to this document as Exhibit A is a series of emails from June 2016 between, among others, Donald Trump, Jr. and Rob Goldstone. In addition to the emails reflected in Exhibit A, Donald Trump, Jr. had other communications with Rob Goldstone and Emin Agalarov between June 3, 2016, and June 9, 2016.*
 
-**Nor do I recall learning during the campaign ... that Donald J. Trump, Jr., had other communications with Emin Agalarov or Robert Goldstone between June 3, 2016 and June 9, 2016.**
-
 **b.i.** Did Mr. Trump, Jr. or anyone else tell you about or show you any of these communications? If yes, describe who discussed the communications with you, when, and the substance of the discussion(s).
 
-(same answer) **I have no recollection of learning at the time that Donald Trump, Jr., Paul Manafort, or Jared Kushner was considering participating in a meeting in June 2016 concerning potentially negative information about Hillary Clinton. Nor do I recall learning during the campaign ... that the referenced emails existed, ...**
+(same answer) **I have no recollection of learning at the time that Donald Trump, Jr., Paul Manafort, or Jared Kushner was considering participating in a meeting in June 2016 concerning potentially negative information about Hillary Clinton. Nor do I recall learning during the campaign ... that the referenced emails existed, or that Donald J. Trump, Jr., had other communications with Emin Agalarov or Robert Goldstone between June 3, 2016 and June 9, 2016.**
 
 **b.ii.** When did you first see or learn about all or any part of the emails reflected in Exhibit A?
 
