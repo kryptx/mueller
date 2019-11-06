@@ -1,11 +1,13 @@
 # Written questions answered under oath by President Donald J. Trump
 
-Source: Mueller report
+The president's statements have been separated into individual answers, for a more natural understanding of the statements' context.
 
-The president's statements have been separated into individual answers, to better highlight which questions received inadequate or no responses.
+*Source: Mueller report*
+
+<hr />
 
 ### Format
-*a. Labeled statements in italics like this are statements of fact in the original inquiry, which serve as the basis for the subsequent questions.*
+*a. Labeled statements in italics like this are statements of fact in the original inquiry, which serve as the basis for the subsequent questions. Since no question has been asked, responses to these items (if they do not materially answer any other question) can be considered unprompted.*
 
 **b.** Labeled lines without italics are questions asked of the president by Mueller's team.
 
@@ -15,6 +17,8 @@ The president's statements have been separated into individual answers, to bette
 
 (same answer) means his answer covered multiple questions. The answer is not repeated in the report.
 
+<hr />
+
 ## I. June 9, 2016 Meeting at Trump Tower
 
 **a.** When did you first learn that Donald Trump, Jr., Paul Manafort, or Jared Kushner was considering participating in a meeting in June 2016 concerning potentially negative information about Hillary Clinton? Describe who you learned the information from and the substance of the discussion.
@@ -23,7 +27,7 @@ The president's statements have been separated into individual answers, to bette
 
 *b. Attached to this document as Exhibit A is a series of emails from June 2016 between, among others, Donald Trump, Jr. and Rob Goldstone. In addition to the emails reflected in Exhibit A, Donald Trump, Jr. had other communications with Rob Goldstone and Emin Agalarov between June 3, 2016, and June 9, 2016.*
 
-**Nor do I recall learning ... that Donald J. Trump, Jr., had other communications with Emin Agalarov or Robert Goldstone between June 3, 2016 and June 9, 2016.**
+**Nor do I recall learning during the campaign ... that Donald J. Trump, Jr., had other communications with Emin Agalarov or Robert Goldstone between June 3, 2016 and June 9, 2016.**
 
 **b.i.** Did Mr. Trump, Jr. or anyone else tell you about or show you any of these communications? If yes, describe who discussed the communications with you, when, and the substance of the discussion(s).
 
